@@ -20,11 +20,15 @@ https://youtu.be/K4LAjQgsWUE
 <br>
 (This is the refilmed version of the failed Liking TwitterBot live stream)
 <br>
-You can find it here: https://youtu.be/aSeqMYNhEHo
+You can find it here: 
+<br>
+https://youtu.be/aSeqMYNhEHo
 <br>
 ### Retweeting, Liking and Quoting TwitterBot
 <b>TwitterBot_Retweeting_Liking_Quoting.ipynb</b> demonstrates that by customizing your bots
 <br>
 and utilizing a large degree of rendomness - you can fake a very rich presence on Twitter.
 <br>
-<b>PLEASE USE THIS CODE RESPONSIBLY!!! IT IS MORE SUPHISTICATED THAN THE ABOVE EXAMPLES!!! </b>
+<b>PLEASE USE THIS CODE RESPONSIBLY!!! 
+<br>
+IT IS MORE SUPHISTICATED THAN THE ABOVE EXAMPLES!!! </b>
