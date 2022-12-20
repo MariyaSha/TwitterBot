@@ -29,7 +29,5 @@ https://youtu.be/aSeqMYNhEHo
 <br>
 and utilizing a large degree of rendomness - you can fake a very rich presence on Twitter.
 <br>
-<br>
-<b>PLEASE USE THIS CODE RESPONSIBLY!!! 
-<br>
-IT IS MORE SUPHISTICATED THAN THE ABOVE EXAMPLES!!! </b>
+Please note: this code is not perfect, I still need to solve a few issues in order for this to be fully operational.
+
